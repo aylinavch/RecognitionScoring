@@ -1,0 +1,2 @@
+# RecognitionScoring
+This score takes into account 3 different chronological characteristics: relative position recognition (RPR), absolute position recognition (APR) and correct sequence recognition (CSR). RPR takes into account how many images were recognized in their correct position; APR counts how many positions away from the correct position was the image recognized; CSR considers how many chronological sequences of pairs of images were detected.
